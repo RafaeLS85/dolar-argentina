@@ -1,0 +1,1 @@
+export const ambitoUrl = 'https://www.ambito.com/contenidos/dolar.html';
